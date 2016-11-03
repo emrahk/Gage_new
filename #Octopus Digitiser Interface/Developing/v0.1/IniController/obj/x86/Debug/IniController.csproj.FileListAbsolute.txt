@@ -1,0 +1,50 @@
+C:\Users\Tugrul\Desktop\IniController\IniController\IniController\bin\Debug\IniController.exe
+C:\Users\Tugrul\Desktop\IniController\IniController\IniController\bin\Debug\IniController.pdb
+C:\Users\Tugrul\Desktop\IniController\IniController\IniController\obj\x86\Debug\IniController.csprojResolveAssemblyReference.cache
+C:\Users\Tugrul\Desktop\IniController\IniController\IniController\obj\x86\Debug\IniController.Main.resources
+C:\Users\Tugrul\Desktop\IniController\IniController\IniController\obj\x86\Debug\IniController.Properties.Resources.resources
+C:\Users\Tugrul\Desktop\IniController\IniController\IniController\obj\x86\Debug\IniController.csproj.GenerateResource.Cache
+C:\Users\Tugrul\Desktop\IniController\IniController\IniController\obj\x86\Debug\IniController.exe
+C:\Users\Tugrul\Desktop\IniController\IniController\IniController\obj\x86\Debug\IniController.pdb
+C:\Users\Tugrul\Desktop\IniController\IniController\IniController\bin\Debug\MultipleRecord.ini
+C:\Users\Tugrul\Desktop\IniController\IniController\IniController\bin\Debug\IniController.exe.config
+C:\Users\Tugrul\Desktop\IniController\IniController\IniController\bin\Debug\Nini.dll
+C:\Users\Tugrul\Desktop\IniController\IniController\IniController\bin\Debug\MultipleRecord2.ini
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\IniController.exe.config
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\IniController.exe
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\IniController.pdb
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\Nini.dll
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\MultipleRecord2.ini
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\MultipleRecord.ini
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\IniController.exe
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\IniController.pdb
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\IniController.Main.resources
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\IniController.Properties.Resources.resources
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\IniController.exe.config
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\IniController.exe
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\IniController.pdb
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\Nini.dll
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\MultipleRecord.ini
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\IniController.exe
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\IniController.pdb
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\IniController.Main.resources
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\IniController.Properties.Resources.resources
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\ResGen.read.1.tlog
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\su\Desktop\Compuscope\#Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\IniController.exe.config
+C:\Users\su\Desktop\Compuscope\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\IniController.exe
+C:\Users\su\Desktop\Compuscope\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\IniController.pdb
+C:\Users\su\Desktop\Compuscope\#Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\Nini.dll
+C:\Users\su\Desktop\Compuscope\#Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\MultipleRecord.ini
+C:\Users\su\Desktop\Compuscope\#Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\IniController.exe
+C:\Users\su\Desktop\Compuscope\#Octopus Digitiser Interface\Developing\v0.1\IniController\bin\Debug\IniController.pdb
+C:\Users\su\Desktop\Compuscope\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\IniController.csprojResolveAssemblyReference.cache
+C:\Users\su\Desktop\Compuscope\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\IniController.Main.resources
+C:\Users\su\Desktop\Compuscope\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\IniController.Properties.Resources.resources
+C:\Users\su\Desktop\Compuscope\#Octopus Digitiser Interface\Developing\v0.1\IniController\obj\x86\Debug\IniController.csproj.GenerateResource.Cache

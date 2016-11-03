@@ -1,0 +1,8 @@
+to do list for Octopus Digitiser Interface
+
+- add information about the variables on interface. there are "i" buttons, if clicked these buttons the information should appear.
+- add selectbox for select the file of datas above the "IDL" button
+- data file names should be editable.
+
+EK:
+Acquisition mode deðiþmiyor

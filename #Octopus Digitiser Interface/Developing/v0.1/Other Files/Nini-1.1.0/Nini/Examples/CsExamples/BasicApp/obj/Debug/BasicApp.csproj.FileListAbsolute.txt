@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\Other Files\Nini-1.1.0\Nini\Examples\CsExamples\BasicApp\bin\Debug\BasicApp.exe
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\Other Files\Nini-1.1.0\Nini\Examples\CsExamples\BasicApp\bin\Debug\BasicApp.pdb
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\Other Files\Nini-1.1.0\Nini\Examples\CsExamples\BasicApp\bin\Debug\Nini.dll
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\Other Files\Nini-1.1.0\Nini\Examples\CsExamples\BasicApp\bin\Debug\Nini.pdb
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\Other Files\Nini-1.1.0\Nini\Examples\CsExamples\BasicApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\Other Files\Nini-1.1.0\Nini\Examples\CsExamples\BasicApp\obj\Debug\BasicApp.MainForm.resources
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\Other Files\Nini-1.1.0\Nini\Examples\CsExamples\BasicApp\obj\Debug\ResGen.read.1.tlog
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\Other Files\Nini-1.1.0\Nini\Examples\CsExamples\BasicApp\obj\Debug\ResGen.write.1.tlog
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\Other Files\Nini-1.1.0\Nini\Examples\CsExamples\BasicApp\obj\Debug\BasicApp.exe
+C:\Program Files (x86)\Gage\CompuScope\CompuScope C SDK\#Octopus Digitiser Interface\Developing\v0.1\Other Files\Nini-1.1.0\Nini\Examples\CsExamples\BasicApp\obj\Debug\BasicApp.pdb

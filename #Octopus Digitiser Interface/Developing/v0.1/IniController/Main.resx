@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>128, 17</value>
+  </metadata>
+  <data name="TriggerTimeout.ToolTip" xml:space="preserve">
+    <value>TriggerTimeOut sets the trigger timeout of the CompuScope system. 
+The value is in 100 nanosecond units of time 
+(e.g. a value of 10000000 gives a trigger timeout 1 second). 
+The trigger timeout is the amount of time the driver will wait for a trigger event 
+to occur before forcing a trigger event. A value of -1 will cause the driver 
+to wait indefinitely for a trigger. The default value is -1. </value>
+  </data>
+  <data name="TimeStampClock.ToolTip" xml:space="preserve">
+    <value>The time-stamping counter may operate using for a source a fixed on-board oscillator 
+that is independent of the sample rate. Alternately, the counter source may be derived 
+from the sampling clock. Specifically, the source will be equal to 
+the sampling clock frequency divided by an integer value. 
+Fixed means use the fixed on-board oscillator as the counter source 
+Sample means use frequency derived from the sampling clock as the counter source </value>
+  </data>
+  <data name="TimeStampMode.ToolTip" xml:space="preserve">
+    <value>The time-stamping counter may be reset upon the start of each acquisition 
+or left free running. 
+Free means do not reset the counter upon the start of each acquisition 
+Reset means reset the counter upon the start of each acquisition </value>
+  </data>
+  <data name="TriggerHoldOff.ToolTip" xml:space="preserve">
+    <value>TriggerHoldOff sets the time, in number of samples, during which trigger events will be ignored 
+after the CompuScope system begins capturing and awaiting a trigger event. 
+The function is useful for ensuring the accumulation of a specified amount of pre-trigger data 
+that is equal to the TriggerHoldOff value. The default value is 0. </value>
+  </data>
+  <data name="SegmentCount.ToolTip" xml:space="preserve">
+    <value>SegmentCount is the number of segments (or records) to acquire in a Multiple Record acquisition. 
+For non-Multiple Record (Single Record) acquisitions, SegmentCount must be set to 1. The default value is 1. </value>
+  </data>
+  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="SaveFileFormat.ToolTip" xml:space="preserve">
+    <value>SaveFileFormat determines how the sample programs save ASCII output data files.
+All data files are saved as a single-column ASCII file, 
+where each entry denotes a single sample point. 
+The available values for SaveFileFormat are: 
+TYPE_FLOAT saves the files as voltages in floating-point format 
+TYPE_DEC saves the files as raw ADC data in decimal format 
+TYPE_HEX saves the files as raw ADC data in hexadecimal format (0x1234) 
+The default is TYPE_DEC. </value>
+  </data>
+  <data name="SaveFileName.ToolTip" xml:space="preserve">
+    <value>SaveFileName is the base file name for the files saved in each of the sample programs. 
+The channel number is appended to the base filename.
+ If the acquisition was a Multiple Record mode, 
+the record number is also appended to the file name. </value>
+  </data>
+  <data name="cb_SegmentCount.ToolTip" xml:space="preserve">
+    <value>SegmentCount is the number of segments (records) to transfer after a multiple record transfer. 
+The default is 5. 
+The user must ensure that SegmentCount does not exceed 
+the number of acquired segments so that invalid data are not transferred. </value>
+  </data>
+  <data name="SegmentStart.ToolTip" xml:space="preserve">
+    <value>SegmentStart sets the number of the first segment (record) to transfer after a Multiple Record acquisition. 
+The default is 1, for the first segment.
+ If Multiple Record is not being used,
+ this setting is ignored and is unnecessary. </value>
+  </data>
+  <data name="TransferLength.ToolTip" xml:space="preserve">
+    <value>TransferLength sets the number of samples to transfer, starting from StartPosition.
+ The default value is 4096. 
+The user must ensure that the TransferLength is not too large 
+so that invalid data are not transferred. </value>
+  </data>
+  <data name="StartPosition.ToolTip" xml:space="preserve">
+    <value>StartPosition is the address from which to start transferring 
+the acquired data from on-board CompuScope memory to the application.
+ The address is specified relative to the trigger address, 
+so that a value of 0 will start transfer at the trigger address.
+ Negative values will transfer pre-trigger data and positive values 
+will start transfer data acquired after the trigger event. 
+The default value is 0. 
+The user must ensure that the start value is set properly 
+so that invalid data are not transferred. </value>
+  </data>
+  <data name="cb_source.ToolTip" xml:space="preserve">
+    <value>Source sets the trigger source.
+Valid values are: 
+External trigger from the external trigger input 
+Disable disable trigger input and issue a software trigger as soon as possible 
+In some special cases, a numerical value must be Boolean ORed in with the trigger source. 
+In this case, a trigger source constant must be used so that it may be ORed with the value. 
+The trigger source constants are: 
+1 Channel 1 
+2 Channel 2 
+3 Channel 3 
+4 Channel 4 
+5 Channel 5 
+6 Channel 6 
+7 Channel 7 
+8 Channel 8 
+-1 External 
+0 Disable </value>
+  </data>
+  <data name="Level.ToolTip" xml:space="preserve">
+    <value>Level sets the trigger level as a percentage of the input range of the trigger source 
+(half the full scale input range). 
+For example, in the 2000 mV range at 0 DC offset, 
+50 would be positive 50 % of 1 Volt, 
+or 500 millivolts. 
+The default value is 0. </value>
+  </data>
+  <data name="Condition.ToolTip" xml:space="preserve">
+    <value>Condition sets the condition on which the system will trigger. 
+Current valid values are: 
+Rising system will trigger on a positive slope. 
+R system will trigger on a positive slope. 
+Positive system will trigger on a positive slope. 
+P system will trigger on a positive slope. 
+1 system will trigger on a positive slope. 
+Falling system will trigger on a negative slope. 
+F system will trigger on a negative slope. 
+Negative system will trigger on a negative slope. 
+N system will trigger on a negative slope. 
+0 system will trigger on a negative slope. 
+The default value is Rising. </value>
+  </data>
+  <data name="Impedance1.ToolTip" xml:space="preserve">
+    <value>Impedance sets the channel’s terminating input impedance. 
+Available values are 50 for 50 Ohms and 1000000 for 1 MOhm.
+ Consult your CompuScope hardware manual to check 
+which values are available for your CompuScope model. 
+The default is 1000000, unless the CompuScope system only supports 50 Ohms. </value>
+  </data>
+  <data name="Coupling1.ToolTip" xml:space="preserve">
+    <value>Coupling sets the input coupling for the channel. 
+Available values are AC or DC. 
+Alternatively, driver constants can be used, 
+which are 1 for DC and 2 for AC. 
+Consult your CompuScope hardware manual 
+to check which values are available for your CompuScope model. 
+The default is DC, unless the CompuScope system only supports AC coupling. </value>
+  </data>
+  <data name="Range1.ToolTip" xml:space="preserve">
+    <value>Range sets the full scale input range for the channel. 
+The values must be in millivolts.
+ For example, 2000 millivolts sets the input range to +/- 1 volt. 
+Check your CompuScope hardware manual for the available input ranges for your CompuScope model. 
+The default value is 2000 if the model supports it. Otherwise, the default is system-dependent. </value>
+  </data>
+  <data name="Impedance2.ToolTip" xml:space="preserve">
+    <value>Impedance sets the channel’s terminating input impedance. 
+Available values are 50 for 50 Ohms and 1000000 for 1 MOhm.
+ Consult your CompuScope hardware manual to check 
+which values are available for your CompuScope model. 
+The default is 1000000, unless the CompuScope system only supports 50 Ohms. 
+</value>
+  </data>
+  <data name="Coupling2.ToolTip" xml:space="preserve">
+    <value>Coupling sets the input coupling for the channel. 
+Available values are AC or DC. 
+Alternatively, driver constants can be used, 
+which are 1 for DC and 2 for AC. 
+Consult your CompuScope hardware manual 
+to check which values are available for your CompuScope model. 
+The default is DC, unless the CompuScope system only supports AC coupling. 
+</value>
+  </data>
+  <data name="Range2.ToolTip" xml:space="preserve">
+    <value>Range sets the full scale input range for the channel. 
+The values must be in millivolts.
+ For example, 2000 millivolts sets the input range to +/- 1 volt. 
+Check your CompuScope hardware manual for the available input ranges for your CompuScope model. 
+The default value is 2000 if the model supports it. Otherwise, the default is system-dependent. 
+</value>
+  </data>
+  <data name="Impedance4.ToolTip" xml:space="preserve">
+    <value>Impedance sets the channel’s terminating input impedance. 
+Available values are 50 for 50 Ohms and 1000000 for 1 MOhm.
+ Consult your CompuScope hardware manual to check 
+which values are available for your CompuScope model. 
+The default is 1000000, unless the CompuScope system only supports 50 Ohms. 
+</value>
+  </data>
+  <data name="Coupling4.ToolTip" xml:space="preserve">
+    <value>Coupling sets the input coupling for the channel. 
+Available values are AC or DC. 
+Alternatively, driver constants can be used, 
+which are 1 for DC and 2 for AC. 
+Consult your CompuScope hardware manual 
+to check which values are available for your CompuScope model. 
+The default is DC, unless the CompuScope system only supports AC coupling. 
+</value>
+  </data>
+  <data name="Range4.ToolTip" xml:space="preserve">
+    <value>Range sets the full scale input range for the channel. 
+The values must be in millivolts.
+ For example, 2000 millivolts sets the input range to +/- 1 volt. 
+Check your CompuScope hardware manual for the available input ranges for your CompuScope model. 
+The default value is 2000 if the model supports it. Otherwise, the default is system-dependent. 
+</value>
+  </data>
+  <data name="Impedance3.ToolTip" xml:space="preserve">
+    <value>Impedance sets the channel’s terminating input impedance. 
+Available values are 50 for 50 Ohms and 1000000 for 1 MOhm.
+ Consult your CompuScope hardware manual to check 
+which values are available for your CompuScope model. 
+The default is 1000000, unless the CompuScope system only supports 50 Ohms. 
+</value>
+  </data>
+  <data name="Coupling3.ToolTip" xml:space="preserve">
+    <value>Coupling sets the input coupling for the channel. 
+Available values are AC or DC. 
+Alternatively, driver constants can be used, 
+which are 1 for DC and 2 for AC. 
+Consult your CompuScope hardware manual 
+to check which values are available for your CompuScope model. 
+The default is DC, unless the CompuScope system only supports AC coupling. 
+</value>
+  </data>
+  <data name="Range3.ToolTip" xml:space="preserve">
+    <value>Range sets the full scale input range for the channel. 
+The values must be in millivolts.
+ For example, 2000 millivolts sets the input range to +/- 1 volt. 
+Check your CompuScope hardware manual for the available input ranges for your CompuScope model. 
+The default value is 2000 if the model supports it. Otherwise, the default is system-dependent. 
+</value>
+  </data>
+  <data name="Impedance6.ToolTip" xml:space="preserve">
+    <value>Impedance sets the channel’s terminating input impedance. 
+Available values are 50 for 50 Ohms and 1000000 for 1 MOhm.
+ Consult your CompuScope hardware manual to check 
+which values are available for your CompuScope model. 
+The default is 1000000, unless the CompuScope system only supports 50 Ohms. 
+</value>
+  </data>
+  <data name="Coupling6.ToolTip" xml:space="preserve">
+    <value>Coupling sets the input coupling for the channel. 
+Available values are AC or DC. 
+Alternatively, driver constants can be used, 
+which are 1 for DC and 2 for AC. 
+Consult your CompuScope hardware manual 
+to check which values are available for your CompuScope model. 
+The default is DC, unless the CompuScope system only supports AC coupling. 
+</value>
+  </data>
+  <data name="Range6.ToolTip" xml:space="preserve">
+    <value>Range sets the full scale input range for the channel. 
+The values must be in millivolts.
+ For example, 2000 millivolts sets the input range to +/- 1 volt. 
+Check your CompuScope hardware manual for the available input ranges for your CompuScope model. 
+The default value is 2000 if the model supports it. Otherwise, the default is system-dependent. 
+</value>
+  </data>
+  <data name="Impedance5.ToolTip" xml:space="preserve">
+    <value>Impedance sets the channel’s terminating input impedance. 
+Available values are 50 for 50 Ohms and 1000000 for 1 MOhm.
+ Consult your CompuScope hardware manual to check 
+which values are available for your CompuScope model. 
+The default is 1000000, unless the CompuScope system only supports 50 Ohms. 
+</value>
+  </data>
+  <data name="Coupling5.ToolTip" xml:space="preserve">
+    <value>Coupling sets the input coupling for the channel. 
+Available values are AC or DC. 
+Alternatively, driver constants can be used, 
+which are 1 for DC and 2 for AC. 
+Consult your CompuScope hardware manual 
+to check which values are available for your CompuScope model. 
+The default is DC, unless the CompuScope system only supports AC coupling. 
+</value>
+  </data>
+  <data name="Range5.ToolTip" xml:space="preserve">
+    <value>Range sets the full scale input range for the channel. 
+The values must be in millivolts.
+ For example, 2000 millivolts sets the input range to +/- 1 volt. 
+Check your CompuScope hardware manual for the available input ranges for your CompuScope model. 
+The default value is 2000 if the model supports it. Otherwise, the default is system-dependent. 
+</value>
+  </data>
+  <data name="Impedance8.ToolTip" xml:space="preserve">
+    <value>Impedance sets the channel’s terminating input impedance. 
+Available values are 50 for 50 Ohms and 1000000 for 1 MOhm.
+ Consult your CompuScope hardware manual to check 
+which values are available for your CompuScope model. 
+The default is 1000000, unless the CompuScope system only supports 50 Ohms. 
+</value>
+  </data>
+  <data name="Coupling8.ToolTip" xml:space="preserve">
+    <value>Coupling sets the input coupling for the channel. 
+Available values are AC or DC. 
+Alternatively, driver constants can be used, 
+which are 1 for DC and 2 for AC. 
+Consult your CompuScope hardware manual 
+to check which values are available for your CompuScope model. 
+The default is DC, unless the CompuScope system only supports AC coupling. 
+</value>
+  </data>
+  <data name="Range8.ToolTip" xml:space="preserve">
+    <value>Range sets the full scale input range for the channel. 
+The values must be in millivolts.
+ For example, 2000 millivolts sets the input range to +/- 1 volt. 
+Check your CompuScope hardware manual for the available input ranges for your CompuScope model. 
+The default value is 2000 if the model supports it. Otherwise, the default is system-dependent. 
+</value>
+  </data>
+  <data name="Impedance7.ToolTip" xml:space="preserve">
+    <value>Impedance sets the channel’s terminating input impedance. 
+Available values are 50 for 50 Ohms and 1000000 for 1 MOhm.
+ Consult your CompuScope hardware manual to check 
+which values are available for your CompuScope model. 
+The default is 1000000, unless the CompuScope system only supports 50 Ohms. 
+</value>
+  </data>
+  <data name="Coupling7.ToolTip" xml:space="preserve">
+    <value>Coupling sets the input coupling for the channel. 
+Available values are AC or DC. 
+Alternatively, driver constants can be used, 
+which are 1 for DC and 2 for AC. 
+Consult your CompuScope hardware manual 
+to check which values are available for your CompuScope model. 
+The default is DC, unless the CompuScope system only supports AC coupling. 
+</value>
+  </data>
+  <data name="Range7.ToolTip" xml:space="preserve">
+    <value>Range sets the full scale input range for the channel. 
+The values must be in millivolts.
+ For example, 2000 millivolts sets the input range to +/- 1 volt. 
+Check your CompuScope hardware manual for the available input ranges for your CompuScope model. 
+The default value is 2000 if the model supports it. Otherwise, the default is system-dependent. 
+</value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>32</value>
+  </metadata>
+</root>
